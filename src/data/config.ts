@@ -1,16 +1,14 @@
 const config = {
-  title: "Abhijit Zende | AI Enthusiast",
+  title: "Luxprathan | Portfolio",
   description: {
-    long: "Explore the portfolio of Abhijit, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
+    long: "Explore the portfolio of Luxprathan, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
     short:
-      "Discover the portfolio of Abhijit, a AI enthusiast solving real life problems in DevOps and Development.",
+      "Discover the portfolio of Luxprathan, a AI enthusiast solving real life problems in DevOps and Development.",
   },
   keywords: [
-    "Abhijit",
-    "Abhijit Zende",
-    "abhijitzende",
-    "abhijitzende.com",
-    "Abhijit Zende portfolio",
+    "Luxprathan",
+    "Luxprathan.com",
+    "Luxprathan portfolio",
     "portfolio",
     "DevOps",
     "Devlopment",
@@ -24,25 +22,25 @@ const config = {
     // "React",
     // "Next.js",
     // "Spline",
-    // "Framer Motion",
+    "Framer Motion",
     "AWS",
     "DevSecOps",
     "AIOps",
     "Azure",
   ],
-  author: "Abhijit Zende",
-  email: "abhijitzende75@gmail.com",
-  site: "https://abhijitzende.com",
+  author: "Luxaprathan Nagaselvam",
+  email: "luxluxprathan2003@gmail.com",
+  site: "https://luxprathan.com",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/_Abhi_Speaks/",
-    linkedin: "https://www.linkedin.com/in/zende-abhijit/",
-    instagram: "https://www.instagram.com/_.celestial_abhi._/",
-    facebook: "https://www.facebook.com/profile.php?id=100010029821759",
-    github: "https://github.com/Abhiz2411/",
+    twitter: "#",
+    linkedin: "https://www.linkedin.com/in/luxaprathan-n-83b36933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    instagram: "https://www.instagram.com/luxluxaprathan?igsh=MXdlbWJkMDRhcDdmdg%3D%3D&utm_source=qr",
+    facebook: "https://www.facebook.com/share/16MG8ppgqJ/?mibextid=wwXIfr",
+    github: "https://github.com/luxaprathan",
   },
 };
 export { config };

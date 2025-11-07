@@ -47,8 +47,8 @@ const HeroSection = () => {
                     <TooltipTrigger asChild>
                       <h1
                         className={cn(
-                          "font-thin text-6xl text-transparent text-slate-800 ml-1 text-left",
-                          "cursor-default text-edge-outline font-display sm:text-7xl md:text-9xl "
+                          "font-thin text-6xl text-transparent text-slate-800 text-left",
+                          "cursor-default text-edge-outline font-display sm:text-6xl md:text-7xl "
                         )}
                       >
                         {config.author.split(" ")[0]}
@@ -76,14 +76,14 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    AI Enthusiast
+                    UI & UX Developer
                   </p>
                 </BlurIn>
               </div>
               <div className="mt-8 md:ml-2 flex flex-col gap-3">
                 <Link
                   href={
-                    "https://drive.google.com/file/d/1vjtWfqYGMIMK_rlBnmDEpKco9MiEaQss/view"
+                    "https://drive.google.com/file/d/1YF1KyMS9CsQ22MfLmWW4v0fGSeZ21t5r/view?usp=drive_link"
                   }
                   target="_blank"
                   className="flex-1"

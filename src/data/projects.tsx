@@ -899,11 +899,11 @@ const projects: Project[] = [
   { // 03. Portfolio project
     id: "portfolio",
     category: "Portfolio",
-    title: "My Portfolio",
+    title: "Luxprathan | Portfolio",
     src: "/assets/projects-screenshots/myportfolio/landing.png",
     screenshots: ["assets/projects-screenshots/myportfolio/landing.png"],
-    live: "https://www.abhijitzende.com/",
-    github:"https://github.com/Abhiz2411/3D-interactive-portfolio",
+    live: "https://www.Luxprathan.com/",
+    github:"https://github.com/luxaprathan",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
@@ -1054,7 +1054,7 @@ const projects: Project[] = [
             Alchemist, with this responsive portfolio website. 🌐✨ Explore his inspiring journey, 
             milestones, and life-changing services blending tech and spirituality. Built with 
             modern tools like React and TypeScript, it’s a heartfelt tribute to a mentor who 
-            transforms lives. 💻🕊️ Crafted with ❤️ by Abhijit Zende! 🚀
+            transforms lives. 💻🕊️ Crafted with ❤️ by Luxprathan ! 🚀
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
           <SlideShow

@@ -8,6 +8,7 @@ import SkillsSection from "@/components/sections/skills";
 import ProjectsSection from "@/components/sections/projects";
 import ContactSection from "@/components/sections/contact";
 import HeroSection from "@/components/sections/hero";
+import LearningJourneySection from "@/components/sections/learning-journey";
 
 function MainPage() {
   return (
@@ -21,6 +22,7 @@ function MainPage() {
           <SkillsSection />
           <ProjectsSection />
           <ContactSection />
+          <LearningJourneySection />
         </main>
       </SmoothScroll>
     </>

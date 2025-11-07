@@ -1,0 +1,6 @@
+{
+  // Use the workspace TypeScript version (prevents conflicts with VS Code's built-in TS)
+  "typescript.tsdk": "node_modules/typescript/lib",
+  // Prompt to use workspace version if available
+  "typescript.enablePromptUseWorkspaceVersion": true
+}
